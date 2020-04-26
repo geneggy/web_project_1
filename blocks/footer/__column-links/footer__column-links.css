@@ -6,7 +6,3 @@
   font-weight: normal;
   transition: opacity 1s linear;
 }
-
-.footer__column-links:hover {
-  opacity: 25%;
-}

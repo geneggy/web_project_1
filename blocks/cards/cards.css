@@ -7,8 +7,10 @@
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
+  padding: 0;
   width: 920px;
   justify-content: space-between;
+  list-style: none;
 }
 
 
