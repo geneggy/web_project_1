@@ -1,13 +1,12 @@
-
 .video__iframe {
-  z-index:1;
+  z-index: 1;
 }
 
 .video__iframe:not(:last-of-type) {
   padding-right: 20px;
 }
 
-.video__iframe iframe{
+.video__iframe iframe {
   width: 515px;
   height: 316px;
 }
